@@ -1,0 +1,15 @@
+title: GitHub Pages Demo
+
+author: Leonel
+email: your-email@domain.com
+
+description: This is the description.
+
+# Build settings
+
+# If you clone the Minima repo and build locally, use this setting.
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
